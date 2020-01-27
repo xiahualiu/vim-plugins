@@ -1,3 +1,6 @@
 [submodule "python-mode"]
 	path = python-mode
 	url = https://github.com/python-mode/python-mode.git
+[submodule "auto-pairs"]
+	path = auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
