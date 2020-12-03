@@ -4,3 +4,9 @@
 [submodule "auto-pairs"]
 	path = auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "airline"]
+	path = airline
+	url = https://github.com/vim-airline/vim-airline.git
