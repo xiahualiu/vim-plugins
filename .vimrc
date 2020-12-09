@@ -1,8 +1,8 @@
 set nu 					" Set line number
 syntax on
-set tabstop=8
-set softtabstop=4
-set shiftwidth=4
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
 set autoindent
 set nofoldenable 			" No folding
-let g:pymode_options_colorcolumn = 0 	" No colorbar on column 80
+map <F2> :NERDTreeToggle<CR>            " F2 toggle nerdtree
